@@ -4,7 +4,9 @@
 a screen recorder wrapper for linux.
 <br>
 # Installation:
-<code>curl -o "https://raw.githubusercontent.com/synt-xerror/syntax-record/main/record.sh"</code>
+```bash
+curl -s https://raw.githubusercontent.com/synt-xerror/syntax-record/main/install.sh | bash
+```
 
 # Configuration
 it doesn't have a config file (for now), but you can configure the format of the video, sound devices, video devices, webcam and more in the shell script file.
