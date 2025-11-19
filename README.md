@@ -1,5 +1,3 @@
-
-
 a bugged as hell screen recorder wrapper for linux.
 <br>
 # Installation:
@@ -13,6 +11,6 @@ it doesn't have a config file (for now), but you can configure the format of the
 ---
 
 ### note from author
-i know that logo looks awful. <br>
-made this wrapper for personal use only, but i decided to make it public for my portfolio. <br>
-feel free to modify whatever lines you want and study with this, and it's not necessary to give the credits if distribute (but... i'll be happy if you do :D) 
+this shit is a shame<br>
+made this wrapper for personal use only, but i decided to make it public thinking that works (but i found smth around 5-10 bugs). <br>
+feel free to modify whatever lines you want and study with this, and it's not necessary to give the credits if distribute (really, it is not, don't give credits, please)
