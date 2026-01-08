@@ -1,4 +1,6 @@
 a bugged as hell screen recorder wrapper for linux.
+status: [archived](https://github.com/synt-xerror/synt-xerror)
+
 <br>
 # Installation:
 ```bash
